@@ -1,0 +1,9 @@
+.Jugar {
+  text-align: center;
+  margin: 20px;
+}
+
+.Jugar-boton {
+	width: 30%;
+	font-size: 18pt;
+}

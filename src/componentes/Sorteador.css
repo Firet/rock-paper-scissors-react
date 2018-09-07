@@ -1,0 +1,19 @@
+.Sorteador {
+  text-align: center;
+  border : 1px solid black;
+  width : 40%;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px;
+  height: 100px;
+}
+
+.Sorteador-mensaje {
+	width: 50%;
+	float:left;
+}
+
+.Sorteador-imagen {
+	width: 50%;
+	float:left;
+}
