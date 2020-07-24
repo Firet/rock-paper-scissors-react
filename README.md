@@ -1,2 +1,3 @@
 # RockPaperScissors
-Piedra, Papel y Tijera con React
+
+game made with React JS
